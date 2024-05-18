@@ -27,7 +27,7 @@
     "game" : "The Wind Waker",
     "location_name": "Bomb Island",
     "location_src": "./windwaker/Bomb_Island.jpg",
-    "difficulty": "4"
+    "difficulty": "5"
   },
   {
     "game" : "The Wind Waker",
@@ -51,7 +51,7 @@
     "game" : "The Wind Waker",
     "location_name": "Diamond Steppe Island",
     "location_src": "./windwaker/Diamond_Steppe_Island.jpg",
-    "difficulty": "3"
+    "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
@@ -105,7 +105,7 @@
     "game" : "The Wind Waker",
     "location_name": "Greatfish Isle",
     "location_src": "./windwaker/Greatfish_Isle.jpg",
-    "difficulty": "1"
+    "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
@@ -135,13 +135,13 @@
     "game" : "The Wind Waker",
     "location_name": "Needle Rock Island",
     "location_src": "./windwaker/Needle_Rock_Island.jpg",
-    "difficulty": "3"
+    "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
     "location_name": "North Fairy",
     "location_src": "./windwaker/Nfarie.jpg",
-    "difficulty": "2"
+    "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
@@ -237,7 +237,7 @@
     "game" : "The Wind Waker",
     "location_name": "Tingle Island",
     "location_src": "./windwaker/Tingleisland.jpg",
-    "difficulty": "1"
+    "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
@@ -286,6 +286,86 @@
     "location_name": "Windfall Island",
     "location_src": "./windwaker/Windfall_Island_overview.png",
     "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "location_name": "Windfall's Cafe Bar",
+    "location_src": "./windwaker/Cafebar2.jpg",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "location_name": "Windfall's Chu Jelly Juice Shop",
+    "location_src": "./windwaker/Chujellyjuiceshop.jpg",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "location_name": "House of Wealth",
+    "location_src": "./windwaker/House_of_Wealth.jpg",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "location_name": "Hyrule",
+    "location_src": "./windwaker/Hyrule-The_Wind_Waker.jpg",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "location_name": "Windfall's Bomb Shop",
+    "location_src": "./windwaker/Inside_Bomb_Shop_WW.jpg",
+    "difficulty": "2"
+  },
+  {
+    "game": "The Wind Waker",
+    "location_name": "Forbidden Woods",
+    "location_src": "./windwaker/Outer_Forbidden_Woods.jpg",
+    "difficulty": "2"
+  },
+  {
+    "game": "The Wind Waker",
+    "location_name": "Windfall's School of Joy",
+    "location_src": "./windwaker/Schoolofjoy.jpg",
+    "difficulty": "3"
+  },
+  {
+    "game": "The Wind Waker",
+    "location_name": "Tetra's Ship",
+    "location_src": "./windwaker/Tetraship.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "The Wind Waker",
+    "location_name": "Beedle's Shop",
+    "location_src": "./windwaker/TWW_Beedle's_Shop_Ship_Exterior.jpg",
+    "difficulty": "1"
+  },
+  {
+    "game": "The Wind Waker",
+    "location_name": "Fairy Fountain",
+    "location_src": "./windwaker/TWW_Fairy_Fountain.jpg",
+    "difficulty": "3"
+  },
+  {
+    "game": "The Wind Waker",
+    "location_name": "Ghost Ship",
+    "location_src": "./windwaker/TWW_Ghost_Ship.jpg",
+    "difficulty": "4"
+  },
+  {
+    "game": "The Wind Waker",
+    "location_name": "Link's House",
+    "location_src": "./windwaker/TWW_Link's_House.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "The Wind Waker",
+    "location_name": "Zunari's Shop",
+    "location_src": "./windwaker/Zunari%27s_shop.jpg",
+    "difficulty": "4"
   }
+
+
 
 ]
