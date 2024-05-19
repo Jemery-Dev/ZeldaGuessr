@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Sedan+SC&display=swap');
+
+body{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: darkseagreen;;
+}
+
+
+img{
+    border: 3px solid saddlebrown;
+    border-radius: 10%;
+    max-width: 100%;
+    max-height: 100%;
+}
