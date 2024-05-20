@@ -1,11 +1,13 @@
 <script>
-    import locations from '$lib/locations.json';
+    import types from '$lib/types.json';
     import games from '$lib/games.json';
+
     let selectedGame;
+    let selectedType;
 
     function gotoNextPage() {
         if (selectedGame) {
-            window.location.href = `/guess?game_name=${encodeURIComponent(selectedGame)}`;
+            window.location.href = `/guess?game_name=${encodeURIComponent(selectedGame)}&type=${encodeURIComponent(selectedType)}`;
         }
     }
 </script>
@@ -16,6 +18,13 @@
         <option value="" disabled selected>Select a game</option>
         {#each games as game}
             <option value={game.title}>{game.title}</option>
+        {/each}
+    </select>
+
+    <select id="type-select" bind:value={selectedType}>
+        <option value="" disabled selected>Select a type</option>
+        {#each types as type}
+            <option value={type.type}>{type.type}</option>
         {/each}
     </select>
 

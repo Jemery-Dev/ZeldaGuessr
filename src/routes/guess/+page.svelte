@@ -1,7 +1,11 @@
 <script>
     import { onMount } from 'svelte';
     import locations from '$lib/locations.json';
+    import { page } from '$app/stores';
 
+    const params = new URLSearchParams($page.url.search);
+    const selectedGame = params.get('game_name');
+    const selectedType = params.get('type');
     let gameScore = 0;
     let guesses = 0;
     let currentLocation = {};
@@ -32,6 +36,8 @@
 </script>
 
 <div class="content-center items-center justify-center">
+    <h1>You are searching for {selectedType} in {selectedGame}</h1>
+
 {#if currentLocation}
     <div class="text-4xl font-black">
         <h1 >Guess the Location</h1>
