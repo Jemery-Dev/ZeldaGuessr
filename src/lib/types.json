@@ -1,0 +1,7 @@
+[
+  {"type":  "All"},
+  { "type": "Locations" },
+  { "type": "Items" },
+  { "type": "Characters" },
+  { "type": "Dungeons maps" }
+]
