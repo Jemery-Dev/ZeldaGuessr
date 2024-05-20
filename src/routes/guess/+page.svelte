@@ -31,24 +31,28 @@
     onMount(selectRandomLocation);
 </script>
 
-<div class="">
+<div class="content-center items-center justify-center">
 {#if currentLocation}
-    <h1>Guess the Location</h1>
-    <div class="">
+    <div class="text-4xl font-black">
+        <h1 >Guess the Location</h1>
+    </div>
+    <div class="flex justify-center items-center ">
         <img src={currentLocation.location_src} alt="Location" />
     </div>
 
-    <form on:submit|preventDefault={checkAnswer}>
-        <label>Choose a location from this list:
-            <input list="locationList" name="locationInput" bind:value={selectedLocation} />
-        </label>
-        <datalist id="locationList">
-            {#each locations as location}
-                <option value={location.location_name}></option>
-            {/each}
-        </datalist>
-        <button type="submit">Submit</button>
-    </form>
+    <div class="flex items-center justify-center">
+        <form on:submit|preventDefault={checkAnswer}>
+            <label>Choose a location from this list:
+                <input list="locationList" name="locationInput" bind:value={selectedLocation} />
+            </label>
+            <datalist id="locationList">
+                {#each locations as location}
+                    <option value={location.location_name}></option>
+                {/each}
+            </datalist>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
 
     {#if isCorrect === true}
         <p>Correct! You earned 1 point.</p>
