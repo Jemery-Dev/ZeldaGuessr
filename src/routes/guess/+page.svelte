@@ -1,11 +1,12 @@
 <script>
-    import {onMount} from 'svelte';
+    import { onMount } from 'svelte';
     import locations from '$lib/locations.json';
-    import {page} from '$app/stores';
+    import { page } from '$app/stores';
 
     const params = new URLSearchParams($page.url.search);
     const jeuSelectionne = params.get('game_name');
     const typeSelectionne = params.get('type');
+    let indexAleatoire;
     let scoreJeu = 0;
     let tentatives = 0;
     let emplacementActuel = {};
@@ -24,14 +25,20 @@
     }
 
     function selectionnerEmplacementAleatoire() {
-        const indexAleatoire = Math.floor(Math.random() * listeJeu.length);
+        indexAleatoire = Math.floor(Math.random() * listeJeu.length);
         emplacementActuel = listeJeu[indexAleatoire];
-        listeJeu = listeJeu.slice(0, indexAleatoire).concat(listeJeu.slice(indexAleatoire + 1));
         emplacementSelectionne = '';
         estCorrect = null;
     }
 
     function verifierReponse() {
+        listeJeu = listeJeu.slice(0, indexAleatoire).concat(listeJeu.slice(indexAleatoire + 1));
+        const nomsEmplacementsValid = listeJeu.map(question => question.location_name.toLowerCase());
+        if (!nomsEmplacementsValid.includes(emplacementSelectionne.toLowerCase())) {
+            estCorrect = false;
+            return;
+        }
+
         if (emplacementSelectionne.toLowerCase() === emplacementActuel.location_name.toLowerCase()) {
             estCorrect = true;
             scoreJeu++;
@@ -64,16 +71,16 @@
         </div>
 
         <div class="flex items-center justify-center">
-            <form on:submit|preventDefault={() => verifierReponse()}>
+            <form on:submit|preventDefault={verifierReponse}>
                 <label>Choisissez un emplacement dans cette liste :
                     <input list="listeEmplacements" name="inputEmplacement" bind:value={emplacementSelectionne}/>
                 </label>
                 <datalist id="listeEmplacements">
-                    {#each locations as location}
-                        <option value={location.location_name}></option>
+                    {#each listeJeu as question}
+                        <option value={question.location_name}></option>
                     {/each}
                 </datalist>
-                <button type="submit">Soumettre</button>
+                <button type="submit" disabled={!listeJeu.map(question => question.location_name.toLowerCase()).includes(emplacementSelectionne.toLowerCase())}>Soumettre</button>
             </form>
         </div>
 
