@@ -2,36 +2,32 @@
     import types from '$lib/types.json';
     import games from '$lib/games.json';
 
-    let selectedGame;
-    let selectedType;
+    let jeuChoisi;
+    let typeChoisi;
 
-    function gotoNextPage() {
-        if (selectedGame) {
-            window.location.href = `/guess?game_name=${encodeURIComponent(selectedGame)}&type=${encodeURIComponent(selectedType)}`;
+    function gotoPageJeu() {
+        if (jeuChoisi) {
+            window.location.href = `/guess?game_name=${encodeURIComponent(jeuChoisi)}&type=${encodeURIComponent(typeChoisi)}`;
         }
     }
 </script>
 
-<form on:submit|preventDefault={gotoNextPage}>
-    <label for="game-select">Choose a Zelda game:</label>
-    <select id="game-select" bind:value={selectedGame}>
-        <option value="" disabled selected>Select a game</option>
+<form on:submit|preventDefault={gotoPageJeu}>
+    <label for="game-select">Choisir un jeu:</label>
+    <select id="game-select" bind:value={jeuChoisi}>
+        <option value="" disabled selected>Prendre un jeu</option>
         {#each games as game}
             <option value={game.title}>{game.title}</option>
         {/each}
     </select>
 
-    <select id="type-select" bind:value={selectedType}>
-        <option value="" disabled selected>Select a type</option>
+    <select id="type-select" bind:value={typeChoisi}>
+        <option value="" disabled selected>Choisir une catégorie</option>
         {#each types as type}
             <option value={type.type}>{type.type}</option>
         {/each}
     </select>
 
-    <button type="submit" disabled={!selectedGame}>Go to Game Details</button>
+    <button type="submit" disabled={!jeuChoisi}>Go to Game Details</button>
 </form>
-
-{#if selectedGame}
-    <h2>You selected: {selectedGame}</h2>
-{/if}
 

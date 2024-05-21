@@ -1,75 +1,91 @@
 <script>
-    import { onMount } from 'svelte';
+    import {onMount} from 'svelte';
     import locations from '$lib/locations.json';
-    import { page } from '$app/stores';
+    import {page} from '$app/stores';
 
     const params = new URLSearchParams($page.url.search);
-    const selectedGame = params.get('game_name');
-    const selectedType = params.get('type');
-    let gameScore = 0;
-    let guesses = 0;
-    let currentLocation = {};
-    let selectedLocation = '';
-    let isCorrect = null;
+    const jeuSelectionne = params.get('game_name');
+    const typeSelectionne = params.get('type');
+    let scoreJeu = 0;
+    let tentatives = 0;
+    let emplacementActuel = {};
+    let emplacementSelectionne = '';
+    let estCorrect = null;
+    let listeJeu = [];
 
-    function selectRandomLocation() {
-        currentLocation = locations[Math.floor(Math.random() * locations.length)];
-        selectedLocation = '';
-        isCorrect = null;
-    }
-
-    function checkAnswer() {
-        if (selectedLocation.toLowerCase() === currentLocation.location_name.toLowerCase()) {
-            isCorrect = true;
-            gameScore++;
-            guesses++;
-            if(guesses == 10){
-
+    function initialiserEmplacements(listeCategories) {
+        let listeJeuTemporaire = [];
+        for (let categorie of listeCategories) {
+            if (categorie.game === jeuSelectionne) {
+                listeJeuTemporaire.push(categorie);
             }
-        } else {
-            isCorrect = false;
         }
-        selectRandomLocation();
+        return listeJeuTemporaire;
     }
 
-    onMount(selectRandomLocation);
+    function selectionnerEmplacementAleatoire() {
+        const indexAleatoire = Math.floor(Math.random() * listeJeu.length);
+        emplacementActuel = listeJeu[indexAleatoire];
+        listeJeu = listeJeu.slice(0, indexAleatoire).concat(listeJeu.slice(indexAleatoire + 1));
+        emplacementSelectionne = '';
+        estCorrect = null;
+    }
+
+    function verifierReponse() {
+        if (emplacementSelectionne.toLowerCase() === emplacementActuel.location_name.toLowerCase()) {
+            estCorrect = true;
+            scoreJeu++;
+        } else {
+            estCorrect = false;
+        }
+        tentatives++;
+        if (tentatives < 10 && listeJeu.length > 0) {
+            selectionnerEmplacementAleatoire();
+        }
+    }
+
+    onMount(function () {
+        listeJeu = initialiserEmplacements(locations);
+        if (listeJeu.length > 0) {
+            selectionnerEmplacementAleatoire();
+        }
+    });
 </script>
 
 <div class="content-center items-center justify-center">
-    <h1>You are searching for {selectedType} in {selectedGame}</h1>
+    <h1>Vous cherchez {typeSelectionne} dans {jeuSelectionne}</h1>
 
-{#if currentLocation}
-    <div class="text-4xl font-black">
-        <h1 >Guess the Location</h1>
-    </div>
-    <div class="flex justify-center items-center ">
-        <img src={currentLocation.location_src} alt="Location" />
-    </div>
+    {#if emplacementActuel}
+        <div class="text-4xl font-black">
+            <h1>Devinez l'Emplacement</h1>
+        </div>
+        <div class="flex justify-center items-center ">
+            <img src={emplacementActuel.location_src} alt="Emplacement"/>
+        </div>
 
-    <div class="flex items-center justify-center">
-        <form on:submit|preventDefault={checkAnswer}>
-            <label>Choose a location from this list:
-                <input list="locationList" name="locationInput" bind:value={selectedLocation} />
-            </label>
-            <datalist id="locationList">
-                {#each locations as location}
-                    <option value={location.location_name}></option>
-                {/each}
-            </datalist>
-            <button type="submit">Submit</button>
-        </form>
-    </div>
+        <div class="flex items-center justify-center">
+            <form on:submit|preventDefault={() => verifierReponse()}>
+                <label>Choisissez un emplacement dans cette liste :
+                    <input list="listeEmplacements" name="inputEmplacement" bind:value={emplacementSelectionne}/>
+                </label>
+                <datalist id="listeEmplacements">
+                    {#each locations as location}
+                        <option value={location.location_name}></option>
+                    {/each}
+                </datalist>
+                <button type="submit">Soumettre</button>
+            </form>
+        </div>
 
-    {#if isCorrect === true}
-        <p>Correct! You earned 1 point.</p>
-    {:else if isCorrect === false}
-        <p>Incorrect! The correct answer is {currentLocation.location_name}.</p>
+        {#if estCorrect === true}
+            <p>Correct ! Vous avez gagné 1 point.</p>
+        {:else if estCorrect === false}
+            <p>Incorrect ! La bonne réponse est {emplacementActuel.location_name}.</p>
+        {/if}
+
+        <p>Score : {scoreJeu} || Locations remaining : {listeJeu.length}</p>
     {/if}
-
-    <p>Score: {gameScore}</p>
-{/if}
 </div>
-
 
 <style>
     @import 'styles.css';
