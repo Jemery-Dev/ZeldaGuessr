@@ -1,0 +1,422 @@
+[
+  {
+    "game" : "The Wind Waker",
+    "name": "Beedle",
+    "src": "./windwaker/characters/Beedle_The_Wind_Waker_HD.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Bees Group",
+    "src": "./windwaker/characters/BeesGroup.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Cyclos",
+    "src": "./windwaker/characters/Cyclos.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Doc Bandam",
+    "src": "./windwaker/characters/Doc_Bandam.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Fado",
+    "src": "./windwaker/characters/Fado_The_Wind_Waker_HD.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Grandma",
+    "src": "./windwaker/characters/Grandma_The_Wind_Waker_HD.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Joel",
+    "src": "./windwaker/characters/Joel_TWW.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Laruto",
+    "src": "./windwaker/characters/Laruto_The_Wind_Waker_HD.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Maggie",
+    "src": "./windwaker/characters/Maggie.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Maggie's Father",
+    "src": "./windwaker/characters/Maggie_Father.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Mako",
+    "src": "./windwaker/characters/Mako_TWW.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Mila",
+    "src": "./windwaker/characters/Mila.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Mila's Papa",
+    "src": "./windwaker/characters/Milas_Papa.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Mrs Marie",
+    "src": "./windwaker/characters/Mrsmarie.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Nudge",
+    "src": "./windwaker/characters/Nudge_TWW.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Orca",
+    "src": "./windwaker/characters/Orca.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Rito Chieftain",
+    "src": "./windwaker/characters/RitoChieftain.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Rose",
+    "src": "./windwaker/characters/Rose.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Senza",
+    "src": "./windwaker/characters/Senza_TWW.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Tetra",
+    "src": "./windwaker/characters/Tetra_The_Wind_Waker_HD.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Tott",
+    "src": "./windwaker/characters/Tott",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Travelling Merchant",
+    "src": "./windwaker/characters/Travelling_Merchant.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Carlov",
+    "src": "./windwaker/characters/TWW_-_Carlov_artwork.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Salvatore",
+    "src": "./windwaker/characters/TWW_-_TWW_Salvatore_Figurine_Model.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Abe",
+    "src": "./windwaker/characters/TWW_Abe_Artwork.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Ankle",
+    "src": "./windwaker/characters/TWW_Ankle_Artwork.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Anton",
+    "src": "./windwaker/characters/TWW_Anton_Figurine_Model.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Baito",
+    "src": "./windwaker/characters/TWW_Baito_Figurine_Model.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Bomb Master",
+    "src": "./windwaker/characters/TWW_Bomb-Master_Cannon_Figurine_Model.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Candy",
+    "src": "./windwaker/characters/TWW_Candy_the_Sailor_Figurine_Model.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Dampa",
+    "src": "./windwaker/characters/TWW_Dampa_the_Sailor_Figurine_Model.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Daphnes Nohansen Hyrule",
+    "src": "./windwaker/characters/TWW_Daphnes_Nohansen_Hyrule_Artwork.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "David Jr",
+    "src": "./windwaker/characters/TWW_David_Jr._Artwork.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Garrickson",
+    "src": "./windwaker/characters/TWW_Garrickson_Figurine_Model.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Gossack",
+    "src": "./windwaker/characters/TWW_Gossack_Figurine_Model.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Great Deku Tree",
+    "src": "./windwaker/characters/TWW_Great_Deku_Tree.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "The Great Fairy",
+    "src": "./windwaker/characters/TWW_Great_Fairy_Artwork.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Gummy",
+    "src": "./windwaker/characters/TWW_Gummy_the_Sailor_Figurine_Model.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Jabun",
+    "src": "./windwaker/characters/TWW_Jabun.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Joanna",
+    "src": "./windwaker/characters/TWW_Joanna_Figurine_Model.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Kamo",
+    "src": "./windwaker/characters/TWW_Kamo_Figurine_Model.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Kane",
+    "src": "./windwaker/characters/TWW_Kane_the_Sailor_Figurine_Model.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Knucle",
+    "src": "./windwaker/characters/TWW_Knuckle_Artwork.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Lenzo",
+    "src": "./windwaker/characters/TWW_Lenzo.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Link (Pig)",
+    "src": "./windwaker/characters/TWW_Link_(Pig)_Model.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Loot",
+    "src": "./windwaker/characters/TWW_Loot_the_Sailor_Figurine_Model.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Missy",
+    "src": "./windwaker/characters/TWW_Missy_Figurine_Model.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Old Man Ho Ho",
+    "src": "./windwaker/characters/TWW_Old_Man_Ho_Ho_Figurine_Model.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Pompie & Vera",
+    "src": "./windwaker/characters/TWW_Pompie_&_Vera_Figurine_Model.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Potova",
+    "src": "./windwaker/characters/TWW_Potova_Figurine_Model.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Salvage Corp",
+    "src": "./windwaker/characters/TWW_Salvage_Corp_Figurine_Model.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Sam",
+    "src": "./windwaker/characters/TWW_Sam_Figurine_Model.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Sturgeon",
+    "src": "./windwaker/characters/TWW_Sturgeon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Valoo",
+    "src": "./windwaker/characters/TWW_Valoo_Artwork.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Aryll",
+    "src": "./windwaker/characters/TWWHD_Aryll_Artwork.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Fishman",
+    "src": "./windwaker/characters/TWWHD_Fishman_Artwork.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Ganondorf",
+    "src": "./windwaker/characters/TWWHD_Ganondorf_Artwork.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Gonzo",
+    "src": "./windwaker/characters/TWWHD_Gonzo_Artwork.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Komali",
+    "src": "./windwaker/characters/TWWHD_Komali.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Makar",
+    "src": "./windwaker/characters/TWWHD_Makar_Artwork.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Medli",
+    "src": "./windwaker/characters/TWWHD_Medli_Artwork.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Niko",
+    "src": "./windwaker/characters/TWWHD_Niko_Artwork.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Zelda",
+    "src": "./windwaker/characters/TWWHD_Princess_Zelda_Artwork.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Queen of the fairies",
+    "src": "./windwaker/characters/TWWHD_Queen_of_the_Fairies_Artwork.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Tingle",
+    "src": "./windwaker/characters/TWWHD_Tingle_Artwork.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Link",
+    "src": "./windwaker/characters/WW_Link_HD_1.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Zephos",
+    "src": "./windwaker/characters/Zephos.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Zill",
+    "src": "./windwaker/characters/Zill.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Zuko",
+    "src": "./windwaker/characters/Zuko_TWW.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Zunari",
+    "src": "./windwaker/characters/Zunari.png",
+    "difficulty": "3"
+  }
+]

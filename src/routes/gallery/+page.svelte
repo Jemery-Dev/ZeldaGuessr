@@ -2,7 +2,7 @@
     import games from '$lib/games.json';
     import locations from '$lib/locations.json';
     import items from '$lib/items.json';
-    //import characters from '$lib/characters.json';
+    import characters from '$lib/characters.json';
     import types from '$lib/types.json';
 </script>
 
@@ -40,6 +40,16 @@
             {/if}
 
             {#if type.type === "Characters"}
+                <div class="section-item">
+                    {#each characters as character}
+                        {#if character.game === game.title}
+                            <div class="card-item">
+                                <h3>{character.name}</h3>
+                                <img alt="{character.name}" src="{character.src}" />
+                            </div>
+                        {/if}
+                    {/each}
+                </div>
             {/if}
 
             {#if type.type === "Dungeons maps"}
