@@ -1,0 +1,267 @@
+[
+  {
+    "game" : "The Wind Waker",
+    "name": "Small Key",
+    "src": "./windwaker/items/TWW_Small_Key_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Tingle Tuner",
+    "src": "./windwaker/items/TWW_Tingle_Tuner_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "All Purpose Bait",
+    "src": "./windwaker/items/TWWHD_All-Purpose_Bait_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Bait Bag",
+    "src": "./windwaker/items/TWWHD_Bait_Bag_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Big Key",
+    "src": "./windwaker/items/TWWHD_Big_Key_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Blue Chu Jelly",
+    "src": "./windwaker/items/TWWHD_Blue_Chu_Jelly_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Boko Baba Seed",
+    "src": "./windwaker/items/TWWHD_Boko_Baba_Seed_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Bomb",
+    "src": "./windwaker/items/TWWHD_Bomb_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Boomerang",
+    "src": "./windwaker/items/TWWHD_Boomerang_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Cabana Deed",
+    "src": "./windwaker/items/TWWHD_Cabana_Deed_Icon.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Compass",
+    "src": "./windwaker/items/TWWHD_Compass_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Deku Leaf",
+    "src": "./windwaker/items/TWWHD_Deku_Leaf_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Delivery Bag",
+    "src": "./windwaker/items/TWWHD_Delivery_Bag_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Deluxe Picto Box",
+    "src": "./windwaker/items/TWWHD_Deluxe_Picto_Box_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Din's Pearl",
+    "src": "./windwaker/items/TWWHD_Din's_Pearl_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Dungeon's Map",
+    "src": "./windwaker/items/TWWHD_Dungeon_Map_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Farore's Pearl",
+    "src": "./windwaker/items/TWWHD_Farore's_Pearl_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Golden Feather",
+    "src": "./windwaker/items/TWWHD_Golden_Feather_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Grappling Hook",
+    "src": "./windwaker/items/TWWHD_Grappling_Hook_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Green Chu Jelly",
+    "src": "./windwaker/items/TWWHD_Green_Chu_Jelly_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Hero's Bow",
+    "src": "./windwaker/items/TWWHD_Hero's_Bow_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Hero's Charm",
+    "src": "./windwaker/items/TWWHD_Hero's_Charm_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Hero's Shield",
+    "src": "./windwaker/items/TWWHD_Hero's_Shield_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Hero's Sword",
+    "src": "./windwaker/items/TWWHD_Hero's_Sword_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Hookshot",
+    "src": "./windwaker/items/TWWHD_Hookshot_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Hyoi Pear",
+    "src": "./windwaker/items/TWWHD_Hyoi_Pear_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Iron Boots",
+    "src": "./windwaker/items/TWWHD_Iron_Boots_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Joy Pendant",
+    "src": "./windwaker/items/TWWHD_Joy_Pendant_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Knight's Crest",
+    "src": "./windwaker/items/TWWHD_Knight's_Crest_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Magic Armor",
+    "src": "./windwaker/items/TWWHD_Magic_Armor_Icon.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Master Sword",
+    "src": "./windwaker/items/TWWHD_Master_Sword_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Mirror Shield",
+    "src": "./windwaker/items/TWWHD_Mirror_Shield_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Nayru's Pearl",
+    "src": "./windwaker/items/TWWHD_Nayru's_Pearl_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Picto Box",
+    "src": "./windwaker/items/TWWHD_Picto_Box_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Power Bracelets",
+    "src": "./windwaker/items/TWWHD_Power_Bracelets_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Red Chu Jelly",
+    "src": "./windwaker/items/TWWHD_Red_Chu_Jelly_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Sail",
+    "src": "./windwaker/items/TWWHD_Sail_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Skull Hammer",
+    "src": "./windwaker/items/TWWHD_Skull_Hammer_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Skull Necklace",
+    "src": "./windwaker/items/TWWHD_Skull_Necklace_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Spoils Bag",
+    "src": "./windwaker/items/TWWHD_Spoils_Bag_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Swift Sail",
+    "src": "./windwaker/items/TWWHD_Swift_Sail_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Telescope",
+    "src": "./windwaker/items/TWWHD_Telescope_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Tingle Bottle",
+    "src": "./windwaker/items/TWWHD_Tingle_Bottle_Icon.png",
+    "difficulty": "5"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name": "Wind Waker",
+    "src": "./windwaker/items/TWWHD_Wind_Waker_Icon.png",
+    "difficulty": "3"
+  }
+]
+

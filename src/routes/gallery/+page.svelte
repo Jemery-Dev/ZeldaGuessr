@@ -1,7 +1,7 @@
 <script>
     import games from '$lib/games.json';
     import locations from '$lib/locations.json';
-    //import items from '$lib/items.json';
+    import items from '$lib/items.json';
     //import characters from '$lib/characters.json';
     import types from '$lib/types.json';
 </script>
@@ -18,8 +18,8 @@
                     {#each locations as location}
                         {#if location.game === game.title}
                             <div class="card-item">
-                                <h3>{location.location_name}</h3>
-                                <img alt="{location.location_name}" src="{location.location_src}" />
+                                <h3>{location.name}</h3>
+                                <img alt="{location.name}" src="{location.src}" />
                             </div>
                         {/if}
                     {/each}
@@ -27,6 +27,16 @@
             {/if}
 
             {#if type.type === "Items"}
+                <div class="section-item">
+                    {#each items as item}
+                        {#if item.game === game.title}
+                            <div class="card-item">
+                                <h3>{item.name}</h3>
+                                <img alt="{item.name}" src="{item.src}" />
+                            </div>
+                        {/if}
+                    {/each}
+                </div>
             {/if}
 
             {#if type.type === "Characters"}
