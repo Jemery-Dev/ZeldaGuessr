@@ -17,5 +17,9 @@
 		"tailwindcss": "^3.4.3",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@sentry/svelte": "^8.2.1",
+		"@sentry/sveltekit": "^8.2.1"
+	}
 }
