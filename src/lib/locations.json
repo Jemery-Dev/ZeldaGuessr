@@ -364,8 +364,23 @@
     "location_name": "Zunari's Shop",
     "location_src": "./windwaker/locations/Zunari's_Shop.jpg",
     "difficulty": "4"
+  },
+  {
+    "game": "",
+    "location_name": "",
+    "location_src" : "",
+    "difficulty": ""
+  },
+  {
+    "game": "",
+    "location_name": "",
+    "location_src" : "",
+    "difficulty": ""
+  },
+  {
+    "game": "",
+    "location_name": "",
+    "location_src" : "",
+    "difficulty": ""
   }
-
-
-
 ]
