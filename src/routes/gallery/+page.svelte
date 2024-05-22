@@ -43,10 +43,21 @@
         margin-bottom: 2em;
     }
     .card-item {
-        margin-left: 1em;
+
+        margin-right: 2em;
+        margin-left: 2em;
+        margin-bottom: 1em;
+        flex: 1 1 200px;
     }
 
     .section-item{
         display: flex;
+        flex-wrap: wrap;
     }
+
+    .section-item img {
+        width : 256px;
+        height: 256px;
+    }
+
 </style>
