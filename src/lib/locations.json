@@ -1,386 +1,386 @@
 [
   {
     "game" : "The Wind Waker",
-    "location_name": "Seven-Star Isles",
-    "location_src": "./windwaker/locations/7star.jpg",
+    "name": "Seven-Star Isles",
+    "src": "./windwaker/locations/7star.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Angular Isles",
-    "location_src": "./windwaker/locations/Angular_Isles.jpg",
+    "name": "Angular Isles",
+    "src": "./windwaker/locations/Angular_Isles.jpg",
     "difficulty": "5"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Bird's Peak Rock",
-    "location_src": "./windwaker/locations/Bird's_Peak_Rock.jpg",
+    "name": "Bird's Peak Rock",
+    "src": "./windwaker/locations/Bird's_Peak_Rock.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Boating Course",
-    "location_src": "./windwaker/locations/Boating_Course.jpg",
+    "name": "Boating Course",
+    "src": "./windwaker/locations/Boating_Course.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Bomb Island",
-    "location_src": "./windwaker/locations/Bomb_Island.jpg",
+    "name": "Bomb Island",
+    "src": "./windwaker/locations/Bomb_Island.jpg",
     "difficulty": "5"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Cliff Plateau Isles",
-    "location_src": "./windwaker/locations/Cliff_Plateau_Isles.jpg",
+    "name": "Cliff Plateau Isles",
+    "src": "./windwaker/locations/Cliff_Plateau_Isles.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Crescent",
-    "location_src": "./windwaker/locations/Crescent2.jpg",
+    "name": "Crescent",
+    "src": "./windwaker/locations/Crescent2.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Cyclops Reef",
-    "location_src": "./windwaker/locations/Cyclops_Reef.jpg",
+    "name": "Cyclops Reef",
+    "src": "./windwaker/locations/Cyclops_Reef.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Diamond Steppe Island",
-    "location_src": "./windwaker/locations/Diamond_Steppe_Island.jpg",
+    "name": "Diamond Steppe Island",
+    "src": "./windwaker/locations/Diamond_Steppe_Island.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Eastern Triangle Isle",
-    "location_src": "./windwaker/locations/Eastern_Triangle_Isle.jpg",
+    "name": "Eastern Triangle Isle",
+    "src": "./windwaker/locations/Eastern_Triangle_Isle.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Eastern Fairy",
-    "location_src": "./windwaker/locations/Efairy.jpg",
+    "name": "Eastern Fairy",
+    "src": "./windwaker/locations/Efairy.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Fire Mountain",
-    "location_src": "./windwaker/locations/Firemountian.jpg",
+    "name": "Fire Mountain",
+    "src": "./windwaker/locations/Firemountian.jpg",
     "difficulty": "1"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Five Eye Reef",
-    "location_src": "./windwaker/locations/Five-Eye_Reef.jpg",
+    "name": "Five Eye Reef",
+    "src": "./windwaker/locations/Five-Eye_Reef.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Five Star Isles",
-    "location_src": "./windwaker/locations/Five-Star_Isles.jpg",
+    "name": "Five Star Isles",
+    "src": "./windwaker/locations/Five-Star_Isles.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Flight Control",
-    "location_src": "./windwaker/locations/Flightcontrol.jpg",
+    "name": "Flight Control",
+    "src": "./windwaker/locations/Flightcontrol.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Forest Haven",
-    "location_src": "./windwaker/locations/ForestHaven.jpg",
+    "name": "Forest Haven",
+    "src": "./windwaker/locations/ForestHaven.jpg",
     "difficulty": "1"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Four Eye Reef",
-    "location_src": "./windwaker/locations/Four-Eye_Reef.jpg",
+    "name": "Four Eye Reef",
+    "src": "./windwaker/locations/Four-Eye_Reef.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Greatfish Isle",
-    "location_src": "./windwaker/locations/Greatfish_Isle.jpg",
+    "name": "Greatfish Isle",
+    "src": "./windwaker/locations/Greatfish_Isle.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Headstone Island",
-    "location_src": "./windwaker/locations/Headstone_Island.jpg",
+    "name": "Headstone Island",
+    "src": "./windwaker/locations/Headstone_Island.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Horseshoe Island",
-    "location_src": "./windwaker/locations/Horseshoe_Island.jpg",
+    "name": "Horseshoe Island",
+    "src": "./windwaker/locations/Horseshoe_Island.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Islet of Steel",
-    "location_src": "./windwaker/locations/Islet_of_Steel.jpg",
+    "name": "Islet of Steel",
+    "src": "./windwaker/locations/Islet_of_Steel.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Mother & Child Island",
-    "location_src": "./windwaker/locations/Mother_&_Child_Island.jpg",
+    "name": "Mother & Child Island",
+    "src": "./windwaker/locations/Mother_&_Child_Island.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Needle Rock Island",
-    "location_src": "./windwaker/locations/Needle_Rock_Island.jpg",
+    "name": "Needle Rock Island",
+    "src": "./windwaker/locations/Needle_Rock_Island.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "North Fairy",
-    "location_src": "./windwaker/locations/Nfarie.jpg",
+    "name": "North Fairy",
+    "src": "./windwaker/locations/Nfarie.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Outset Island",
-    "location_src": "./windwaker/locations/Outset_Island.jpg",
+    "name": "Outset Island",
+    "src": "./windwaker/locations/Outset_Island.jpg",
     "difficulty": "1"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Overlook",
-    "location_src": "./windwaker/locations/Overlook.jpg",
+    "name": "Overlook",
+    "src": "./windwaker/locations/Overlook.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Paw Print",
-    "location_src": "./windwaker/locations/Pawprint.jpg",
+    "name": "Paw Print",
+    "src": "./windwaker/locations/Pawprint.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Private Oasis",
-    "location_src": "./windwaker/locations/Private_Oasis.jpg",
+    "name": "Private Oasis",
+    "src": "./windwaker/locations/Private_Oasis.jpg",
     "difficulty": "3"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Rockspire",
-    "location_src": "./windwaker/locations/Rockspire.jpg",
+    "name": "Rockspire",
+    "src": "./windwaker/locations/Rockspire.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Shark Island",
-    "location_src": "./windwaker/locations/Shark_Island.jpg",
+    "name": "Shark Island",
+    "src": "./windwaker/locations/Shark_Island.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Six-Eye Reef",
-    "location_src": "./windwaker/locations/Six-Eye_Reef.jpg",
+    "name": "Six-Eye Reef",
+    "src": "./windwaker/locations/Six-Eye_Reef.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Southern Fairy",
-    "location_src": "./windwaker/locations/Southern_Fairy_Island.jpg",
+    "name": "Southern Fairy",
+    "src": "./windwaker/locations/Southern_Fairy_Island.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Southern Triangle Isle",
-    "location_src": "./windwaker/locations/Southern_Triangle_Isle.jpg",
+    "name": "Southern Triangle Isle",
+    "src": "./windwaker/locations/Southern_Triangle_Isle.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Spectacle",
-    "location_src": "./windwaker/locations/Spectacle.jpg",
+    "name": "Spectacle",
+    "src": "./windwaker/locations/Spectacle.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Star belt",
-    "location_src": "./windwaker/locations/Star_belt.jpg",
+    "name": "Star belt",
+    "src": "./windwaker/locations/Star_belt.jpg",
     "difficulty": "5"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Star Island",
-    "location_src": "./windwaker/locations/Starisland.jpg",
+    "name": "Star Island",
+    "src": "./windwaker/locations/Starisland.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Stone Watcher Island",
-    "location_src": "./windwaker/locations/Stone_Watcher_Island.jpg",
+    "name": "Stone Watcher Island",
+    "src": "./windwaker/locations/Stone_Watcher_Island.jpg",
     "difficulty": "4"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Thorned Fairy Island",
-    "location_src": "./windwaker/locations/Thorned_Fairy_Island.jpg",
+    "name": "Thorned Fairy Island",
+    "src": "./windwaker/locations/Thorned_Fairy_Island.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Three-Eye Reef",
-    "location_src": "./windwaker/locations/Three-Eye_Reef.jpg",
+    "name": "Three-Eye Reef",
+    "src": "./windwaker/locations/Three-Eye_Reef.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Tingle Island",
-    "location_src": "./windwaker/locations/Tingleisland.jpg",
+    "name": "Tingle Island",
+    "src": "./windwaker/locations/Tingleisland.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Tower Of The Gods",
-    "location_src": "./windwaker/locations/Tower_of_the_Gods.jpg",
+    "name": "Tower Of The Gods",
+    "src": "./windwaker/locations/Tower_of_the_Gods.jpg",
     "difficulty": "1"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Dragon Roost Island",
-    "location_src": "./windwaker/locations/TWW_Dragon_Roost_Island_Back.png",
+    "name": "Dragon Roost Island",
+    "src": "./windwaker/locations/TWW_Dragon_Roost_Island_Back.png",
     "difficulty": "1"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Forsaken Fortress",
-    "location_src": "./windwaker/locations/TWW_Forsaken_Fortress.png",
+    "name": "Forsaken Fortress",
+    "src": "./windwaker/locations/TWW_Forsaken_Fortress.png",
     "difficulty": "1"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Gale Isle",
-    "location_src": "./windwaker/locations/TWW_Gale_Isle.jpg",
+    "name": "Gale Isle",
+    "src": "./windwaker/locations/TWW_Gale_Isle.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Northern Triangle Island",
-    "location_src": "./windwaker/locations/TWW_Northern_Triangle_Island.png",
+    "name": "Northern Triangle Island",
+    "src": "./windwaker/locations/TWW_Northern_Triangle_Island.png",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Two-Eye Reef",
-    "location_src": "./windwaker/locations/TWW_Two-Eye_Reef.png",
+    "name": "Two-Eye Reef",
+    "src": "./windwaker/locations/TWW_Two-Eye_Reef.png",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "West Fairy",
-    "location_src": "./windwaker/locations/Wfarie.jpg",
+    "name": "West Fairy",
+    "src": "./windwaker/locations/Wfarie.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Windfall Island",
-    "location_src": "./windwaker/locations/Windfall_Island_overview.png",
+    "name": "Windfall Island",
+    "src": "./windwaker/locations/Windfall_Island_overview.png",
     "difficulty": "1"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Windfall's Cafe Bar",
-    "location_src": "./windwaker/locations/Cafebar2.jpg",
+    "name": "Windfall's Cafe Bar",
+    "src": "./windwaker/locations/Cafebar2.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Windfall's Chu Jelly Juice Shop",
-    "location_src": "./windwaker/locations/Chujellyjuiceshop.jpg",
+    "name": "Windfall's Chu Jelly Juice Shop",
+    "src": "./windwaker/locations/Chujellyjuiceshop.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "House of Wealth",
-    "location_src": "./windwaker/locations/House_of_Wealth.jpg",
+    "name": "House of Wealth",
+    "src": "./windwaker/locations/House_of_Wealth.jpg",
     "difficulty": "2"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Hyrule",
-    "location_src": "./windwaker/locations/Hyrule-The_Wind_Waker.jpg",
+    "name": "Hyrule",
+    "src": "./windwaker/locations/Hyrule-The_Wind_Waker.jpg",
     "difficulty": "3"
   },
   {
     "game" : "The Wind Waker",
-    "location_name": "Windfall's Bomb Shop",
-    "location_src": "./windwaker/locations/Inside_Bomb_Shop_WW.jpg",
+    "name": "Windfall's Bomb Shop",
+    "src": "./windwaker/locations/Inside_Bomb_Shop_WW.jpg",
     "difficulty": "2"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Forbidden Woods",
-    "location_src": "./windwaker/locations/Outer_Forbidden_Woods.jpg",
+    "name": "Forbidden Woods",
+    "src": "./windwaker/locations/Outer_Forbidden_Woods.jpg",
     "difficulty": "2"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Windfall's School of Joy",
-    "location_src": "./windwaker/locations/Schoolofjoy.jpg",
+    "name": "Windfall's School of Joy",
+    "src": "./windwaker/locations/Schoolofjoy.jpg",
     "difficulty": "3"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Tetra's Ship",
-    "location_src": "./windwaker/locations/Tetraship.png",
+    "name": "Tetra's Ship",
+    "src": "./windwaker/locations/Tetraship.png",
     "difficulty": "1"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Beedle's Shop",
-    "location_src": "./windwaker/locations/TWW_Beedle's_Shop_Ship_Exterior.jpg",
+    "name": "Beedle's Shop",
+    "src": "./windwaker/locations/TWW_Beedle's_Shop_Ship_Exterior.jpg",
     "difficulty": "1"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Fairy Fountain",
-    "location_src": "./windwaker/locations/TWW_Fairy_Fountain.jpg",
+    "name": "Fairy Fountain",
+    "src": "./windwaker/locations/TWW_Fairy_Fountain.jpg",
     "difficulty": "3"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Ghost Ship",
-    "location_src": "./windwaker/locations/TWW_Ghost_Ship.jpg",
+    "name": "Ghost Ship",
+    "src": "./windwaker/locations/TWW_Ghost_Ship.jpg",
     "difficulty": "4"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Link's House",
-    "location_src": "./windwaker/locations/TWW_Link's_House.png",
+    "name": "Link's House",
+    "src": "./windwaker/locations/TWW_Link's_House.png",
     "difficulty": "4"
   },
   {
     "game": "The Wind Waker",
-    "location_name": "Zunari's Shop",
-    "location_src": "./windwaker/locations/Zunari's_Shop.jpg",
+    "name": "Zunari's Shop",
+    "src": "./windwaker/locations/Zunari's_Shop.jpg",
     "difficulty": "4"
   },
   {
     "game": "",
-    "location_name": "",
-    "location_src" : "",
+    "name": "",
+    "src": "",
     "difficulty": ""
   },
   {
     "game": "",
-    "location_name": "",
-    "location_src" : "",
+    "name": "",
+    "src": "",
     "difficulty": ""
   },
   {
     "game": "",
-    "location_name": "",
-    "location_src" : "",
+    "name": "",
+    "src": "",
     "difficulty": ""
   }
 ]
