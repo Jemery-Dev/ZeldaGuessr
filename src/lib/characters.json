@@ -122,7 +122,7 @@
   {
     "game" : "The Wind Waker",
     "name": "Tott",
-    "src": "./windwaker/characters/Tott",
+    "src": "./windwaker/characters/Tott.png",
     "difficulty": "3"
   },
   {

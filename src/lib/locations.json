@@ -366,21 +366,303 @@
     "difficulty": "4"
   },
   {
-    "game": "",
+    "game": "Majora's Mask",
+    "name": "Swamp Fishing Hole",
+    "src": "./mm/locations/MM3D_Swamp_Fishing_Hole.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
     "name": "",
-    "src": "",
+    "src": "./mm/locations/",
     "difficulty": ""
   },
   {
-    "game": "",
+    "game": "Majora's Mask",
     "name": "",
-    "src": "",
+    "src": "./mm/locations/",
     "difficulty": ""
   },
   {
-    "game": "",
+    "game": "Majora's Mask",
     "name": "",
-    "src": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/locations/",
     "difficulty": ""
   }
 ]
