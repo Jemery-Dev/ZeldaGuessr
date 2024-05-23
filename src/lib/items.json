@@ -262,6 +262,288 @@
     "name": "Wind Waker",
     "src": "./windwaker/items/TWWHD_Wind_Waker_Icon.png",
     "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Blast Mask",
+    "src": "./mm/items/MM3D_Blast_Mask_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Bremen Mask",
+    "src": "./mm/items/MM3D_Bremen_Mask_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Captain's Hat",
+    "src": "./mm/items/MM3D_Captain's_Hat_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Couple's Mask",
+    "src": "./mm/items/MM3D_Couple's_Mask_Icon.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Mask",
+    "src": "./mm/items/MM3D_Deku_Mask_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Don Gero's Mask",
+    "src": "./mm/items/MM3D_Don_Gero's_Mask_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Fierce Deity Mask",
+    "src": "./mm/items/MM3D_Fierce_Deity's_Mask_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Garo's Mask",
+    "src": "./mm/items/MM3D_Garo's_Mask_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Giant's Mask",
+    "src": "./mm/items/MM3D_Giant's_Mask_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Gibdo Mask",
+    "src": "./mm/items/MM3D_Gibdo_Mask_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Gilded Sword",
+    "src": "./mm/items/MM3D_Gilded_Sword_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goth's Remains",
+    "src": "./mm/items/MM3D_Goht's_Remains_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Mask",
+    "src": "./mm/items/MM3D_Goron_Mask_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Great Fairy's Sword",
+    "src": "./mm/items/MM3D_Great_Fairy's_Sword_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Great Fairy Mask",
+    "src": "./mm/items/MM3D_Great_Fairy_Mask_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Gyorg's Remain",
+    "src": "./mm/items/MM3D_Gyorg's_Remains_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Hero's Bow",
+    "src": "./mm/items/MM3D_Hero's_Bow_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Hero's Shield",
+    "src": "./mm/items/MM3D_Hero's_Shield_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Hookshot",
+    "src": "./mm/items/MM3D_Hookshot_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Kafei's Mask",
+    "src": "./mm/items/MM3D_Kafei's_Mask_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Kamaro's Mask",
+    "src": "./mm/items/MM3D_Kamaro's_Mask_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Kokiri Sword",
+    "src": "./mm/items/MM3D_Kokiri_Sword_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mask of Scents",
+    "src": "./mm/items/MM3D_Mask_of_Scents_Icon.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mirror Shield",
+    "src": "./mm/items/MM3D_Mirror_Shield_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Odolwa's Remains",
+    "src": "./mm/items/MM3D_Odolwa's_Remains_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Pictograph Box",
+    "src": "./mm/items/MM3D_Pictograph_Box_Icon.png",
+    "difficulty": "4s"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Postman's Hat",
+    "src": "./mm/items/MM3D_Postman's_Hat_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Powder Keg",
+    "src": "./mm/items/MM3D_Powder_Keg_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Razor Sword",
+    "src": "./mm/items/MM3D_Razor_Sword_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Romani's Mask",
+    "src": "./mm/items/MM3D_Romani's_Mask_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Stone Mask",
+    "src": "./mm/items/MM3D_Stone_Mask_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Troupe Leader's Mask",
+    "src": "./mm/items/MM3D_Troupe_Leader's_Mask_Icon.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Twindmold's Remains",
+    "src": "./mm/items/MM3D_Twinmold's_Remains_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Bomb",
+    "src": "./mm/items/OoT3D_Bomb_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Bombchu",
+    "src": "./mm/items/OoT3D_Bombchu_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Bunny Hood",
+    "src": "./mm/items/OoT3D_Bunny_Hood_Icon.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Nut",
+    "src": "./mm/items/OoT3D_Deku_Nut_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Stick",
+    "src": "./mm/items/OoT3D_Deku_Stick_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Fire Arrow",
+    "src": "./mm/items/OoT3D_Fire_Arrow_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Ice Arrow",
+    "src": "./mm/items/OoT3D_Ice_Arrow_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Keaton Mask",
+    "src": "./mm/items/OoT3D_Keaton_Mask_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Lens of Truth",
+    "src": "./mm/items/OoT3D_Lens_of_Truth_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Light Arrow",
+    "src": "./mm/items/OoT3D_Light_Arrow_Icon.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Magic Bean",
+    "src": "./mm/items/OoT3D_Magic_Bean_Icon.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mask of Truth",
+    "src": "./mm/items/OoT3D_Mask_of_Truth_Icon.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Ocarina of Time",
+    "src": "./mm/items/OoT3D_Ocarina_of_Time_Icon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Zora Mask",
+    "src": "./mm/items/OoT3D_Zora_Mask_Icon.png",
+    "difficulty": "1"
   }
 ]
 
