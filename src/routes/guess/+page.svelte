@@ -33,13 +33,13 @@
 
     function verifierReponse() {
         listeJeu = listeJeu.slice(0, indexAleatoire).concat(listeJeu.slice(indexAleatoire + 1));
-        const nomsEmplacementsValid = listeJeu.map(question => question.location_name.toLowerCase());
+        const nomsEmplacementsValid = listeJeu.map(question => question.name.toLowerCase());
         if (!nomsEmplacementsValid.includes(emplacementSelectionne.toLowerCase())) {
             estCorrect = false;
             return;
         }
 
-        if (emplacementSelectionne.toLowerCase() === emplacementActuel.location_name.toLowerCase()) {
+        if (emplacementSelectionne.toLowerCase() === emplacementActuel.name.toLowerCase()) {
             estCorrect = true;
             scoreJeu++;
         } else {
@@ -67,7 +67,7 @@
             <h1>Devinez l'Emplacement</h1>
         </div>
         <div class="flex justify-center items-center ">
-            <img src={emplacementActuel.location_src} alt="Emplacement"/>
+            <img src={emplacementActuel.src} alt="Emplacement"/>
         </div>
 
         <div class="flex items-center justify-center">
@@ -77,17 +77,17 @@
                 </label>
                 <datalist id="listeEmplacements">
                     {#each listeJeu as question}
-                        <option value={question.location_name}></option>
+                        <option value={question.name}></option>
                     {/each}
                 </datalist>
-                <button type="submit" disabled={!listeJeu.map(question => question.location_name.toLowerCase()).includes(emplacementSelectionne.toLowerCase())}>Soumettre</button>
+                <button type="submit" disabled={!listeJeu.map(question => question.name.toLowerCase()).includes(emplacementSelectionne.toLowerCase())}>Soumettre</button>
             </form>
         </div>
 
         {#if estCorrect === true}
             <p>Correct ! Vous avez gagné 1 point.</p>
         {:else if estCorrect === false}
-            <p>Incorrect ! La bonne réponse est {emplacementActuel.location_name}.</p>
+            <p>Incorrect ! La bonne réponse est {emplacementActuel.name}.</p>
         {/if}
 
         <p>Score : {scoreJeu} || Locations remaining : {listeJeu.length}</p>

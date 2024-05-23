@@ -76,8 +76,8 @@
     }
 
     .section-item img {
-        width : 256px;
-        height: 256px;
+        max-width : 100%;
+        height : auto;
     }
 
 </style>
