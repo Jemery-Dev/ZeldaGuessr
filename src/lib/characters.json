@@ -418,5 +418,425 @@
     "name": "Zunari",
     "src": "./windwaker/characters/Zunari.png",
     "difficulty": "3"
+  },
+  {
+    "game" : "Majora's Mask",
+    "name" : "Cremia",
+    "src" : "./mm/characters/MM3D_Cremia_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "???",
+    "src": "./mm/characters/MM3D_ _Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Anju",
+    "src": "./mm/characters/MM3D_Anju_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Aveil",
+    "src": "./mm/characters/MM3D_Aveil_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Banker",
+    "src": "./mm/characters/MM3D_Banker_Model.webp",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Big Brother Beaver",
+    "src": "./mm/characters/MM3D_Big_Brother_Beaver_Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Biggoron",
+    "src": "./mm/characters/MM3D_Biggoron_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Brac",
+    "src": "./mm/characters/MM3D_Brac_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Bremor",
+    "src": "./mm/characters/MM3D_Bremor_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Darmani III",
+    "src": "./mm/characters/MM3D_Darmani_III_Model.webp",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Butler's Son",
+    "src": "./mm/characters/MM3D_Deku_Butler's_Son_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Butler",
+    "src": "./mm/characters/MM3D_Deku_Butler_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku King",
+    "src": "./mm/characters/MM3D_Deku_King_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Link",
+    "src": "./mm/characters/MM3D_Deku_Link_Model.webp",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Princess",
+    "src": "./mm/characters/MM3D_Deku_Princess_Model.webp",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Doyle",
+    "src": "./mm/characters/MM3D_Doyle_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Epona",
+    "src": "./mm/characters/MM3D_Epona_Model.webp",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Evan",
+    "src": "./mm/characters/MM3D_Evan_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Fierce Deity Link",
+    "src": "./mm/characters/MM3D_Fierce_Deity_Link_Model.webp",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Fisherman",
+    "src": "./mm/characters/MM3D_Fisherman_Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Garo's Master",
+    "src": "./mm/characters/MM3D_Garo_Master_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Garo",
+    "src": "./mm/characters/MM3D_Garo_Model.webp",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Elder",
+    "src": "./mm/characters/MM3D_Goron_Elder_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Link",
+    "src": "./mm/characters/MM3D_Goron_Link_Model.webp",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Granny",
+    "src": "./mm/characters/MM3D_Granny_Model.webp",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "",
+    "src": "./mm/characters/",
+    "difficulty": ""
   }
 ]
