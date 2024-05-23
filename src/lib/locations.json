@@ -373,296 +373,362 @@
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
+    "name": "Ancient Castle Of Ikana",
+    "src": "./mm/locations/MM_Ancient_Castle_of_Ikana.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Astral Observatory",
+    "src": "./mm/locations/MM_Astral_Observatory.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Bomb Shop",
+    "src": "./mm/locations/MM_Bomb_Shop.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Clock Town Bank",
+    "src": "./mm/locations/MM_Clock_Town_Bank.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Cucco Shack",
+    "src": "./mm/locations/MM_Cucco_Shack.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Curiosity Shop",
+    "src": "./mm/locations/MM_Curiosity_Shop.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Palace",
+    "src": "./mm/locations/MM_Deku_Palace.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Deku Scrub Playground",
+    "src": "./mm/locations/MM_Deku_Scrub_Playground.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Doggy Racetrack",
+    "src": "./mm/locations/MM_Doggy_Racetrack.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "East Clock Town",
+    "src": "./mm/locations/MM_East_Clock_Town.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Fairy Fountain",
+    "src": "./mm/locations/MM_Fairy_Fountain.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Fisherman Hut",
+    "src": "./mm/locations/MM_Fisherman's_Hut.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Gorman Track",
+    "src": "./mm/locations/MM_Gorman_Track.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Graveyard",
+    "src": "./mm/locations/MM_Goron_Graveyard.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Powder Keg Shop",
+    "src": "./mm/locations/MM_Goron_Powder_Keg_Shop.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Racetrack",
+    "src": "./mm/locations/MM_Goron_Racetrack.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Shop",
+    "src": "./mm/locations/MM_Goron_Shop.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Shrine",
+    "src": "./mm/locations/MM_Goron_Shrine.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Goron Village",
+    "src": "./mm/locations/MM_Goron_Village.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Great Bay Coast",
+    "src": "./mm/locations/MM_Great_Bay_Coast.png",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Honey's Shop",
+    "src": "./mm/locations/MM_Honey_27s_Shop.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Ikana Canyon",
+    "src": "./mm/locations/MM_Ikana_Canyon.png",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Ikana Graveyard",
+    "src": "./mm/locations/MM_Ikana_Graveyard.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Ikana River",
+    "src": "./mm/locations/MM_Ikana_River.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Laundry Pool",
+    "src": "./mm/locations/MM_Laundry_Pool.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Lone Peak Shrine",
+    "src": "./mm/locations/MM_Lone_Peak_Shrine.png",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Lottery Shop",
+    "src": "./mm/locations/MM_Lottery_Shop.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Magic Hags Potion Shop",
+    "src": "./mm/locations/MM_Magic_Hags_Potion_Shop.png",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Marine Research Lab",
+    "src": "./mm/locations/MM_Marine_Research_Lab.png",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mayor's Residence",
+    "src": "./mm/locations/MM_Mayor's_Residence.png",
     "difficulty": ""
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Milk Bar",
+    "src": "./mm/locations/MM_Milk_Bar.png",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Milk Road",
+    "src": "./mm/locations/MM_Milk_Road.png",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Mountain Smithy",
+    "src": "./mm/locations/MM_Mountain_Smithy.png",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Mountain Village",
+    "src": "./mm/locations/MM_Mountain_Village.png",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Music Box House",
+    "src": "./mm/locations/MM_Music_Box_House.png",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "North Clock Town",
+    "src": "./mm/locations/MM_North_Clock_Town.png",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Pinnacle Rock",
+    "src": "./mm/locations/MM_Pinnacle_Rock.png",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Pirate Fortress",
+    "src": "./mm/locations/MM_Pirates_Fortress.png",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Post Office",
+    "src": "./mm/locations/MM_Post_Office.png",
+    "difficulty": "4"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Road to Goron Village",
+    "src": "./mm/locations/MM_Road_to_Goron_Village.png",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Romani Ranch",
+    "src": "./mm/locations/MM_Romani_Ranch.png",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Snowhead",
+    "src": "./mm/locations/MM_Snowhead.png",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Southern Clock Town",
+    "src": "./mm/locations/MM_South_Clock_Town.png",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Southern Swamp",
+    "src": "./mm/locations/MM_Southern_Swamp.png",
+    "difficulty": "4"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Spirit House",
+    "src": "./mm/locations/MM_Spirit_House.png",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Stock Pot Inn",
+    "src": "./mm/locations/MM_Stock_Pot_Inn.png",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Stone Tower",
+    "src": "./mm/locations/MM_Stone_Tower.png",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Swamp Spider House",
+    "src": "./mm/locations/MM_Swamp_Spider_House.png",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Swamp Tourist Center",
+    "src": "./mm/locations/MM_Swamp_Tourist_Center.png",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Swordman School",
+    "src": "./mm/locations/MM_Swordsman_School.png",
+    "difficulty": "4"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Termina Field",
+    "src": "./mm/locations/MM_Termina_Field.png",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Town Shooting Gallery",
+    "src": "./mm/locations/MM_Town_Shooting_Gallery.png",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Trading Post",
+    "src": "./mm/locations/MM_Trading_Post.png",
+    "difficulty": "4"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Treasure Chest Shop",
+    "src": "./mm/locations/MM_Treasure_Chest_Shop.png",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Waterfall Rapids",
+    "src": "./mm/locations/MM_Waterfall_Rapids.png",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "West Clock Town",
+    "src": "./mm/locations/MM_West_Clock_Town.png",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Zora Cape",
+    "src": "./mm/locations/MM_Zora_Cape.png",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Zora Game Site",
+    "src": "./mm/locations/MM_Zora_Game_Site.png",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Zora Hall",
+    "src": "./mm/locations/MM_Zora_Hall.png",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/locations/",
-    "difficulty": ""
+    "name": "Zora Shop",
+    "src": "./mm/locations/MM_Zora_Shop.png",
+    "difficulty": "3"
   }
 ]
