@@ -567,276 +567,282 @@
     "game": "Majora's Mask",
     "name": "Granny",
     "src": "./mm/characters/MM3D_Granny_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Grog",
+    "src": "./mm/characters/MM3D_Grog_Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Guru-Guru",
+    "src": "./mm/characters/MM3D_Guru-Guru_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Happy Mask Salesman",
+    "src": "./mm/characters/MM3D_Happy_Mask_Salesman_Model.webp",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Japas",
+    "src": "./mm/characters/MM3D_Japas_Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Judo",
+    "src": "./mm/characters/MM3D_Judo_Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Kaepora Gaebora",
+    "src": "./mm/characters/MM3D_Kaepora_Gaebora_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Kafei",
+    "src": "./mm/characters/MM3D_Kafei_Model.webp",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Kamaro",
+    "src": "./mm/characters/MM3D_Kamaro_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Keaton",
+    "src": "./mm/characters/MM3D_Keaton_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Kotake",
+    "src": "./mm/characters/MM3D_Kotake_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Koume",
+    "src": "./mm/characters/MM3D_Koume_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Link (Goron Guy)",
+    "src": "./mm/characters/MM3D_Link_(Goron)_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Little Brother Beaver",
+    "src": "./mm/characters/MM3D_Little_Brother_Beaver_Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Lulu",
+    "src": "./mm/characters/MM3D_Lulu_Model.webp",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Madame Aroma",
+    "src": "./mm/characters/MM3D_Madame_Aroma_Model.webp",
+    "difficulty": "2"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Majora's Mask",
+    "src": "./mm/characters/MM3D_Majora's_Mask_Model.webp",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mamamu Yan",
+    "src": "./mm/characters/MM3D_Mamamu_Yan_Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Marilla",
+    "src": "./mm/characters/MM3D_Marilla_Model.webp",
+    "difficulty": "5"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mayor Dotour",
+    "src": "./mm/characters/MM3D_Mayor_Dotour_Model.webp",
+    "difficulty": "3"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mikau",
+    "src": "./mm/characters/MM3D_Mikau_Model.webp",
+    "difficulty": "1"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mr. Barten",
+    "src": "./mm/characters/MM3D_Mr._Barten_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Mutoh",
+    "src": "./mm/characters/MM3D_Mutoh_Model.webp",
+    "difficulty": "4"
+  },
+  {
+    "game": "Majora's Mask",
+    "name": "Pierre",
+    "src": "./mm/characters/MM3D_Pierre_Model.webp",
     "difficulty": ""
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Postman",
+    "src": "./mm/characters/MM3D_Postman_Model.webp",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Powder Keg Seller",
+    "src": "./mm/characters/MM3D_Powder_Keg_Seller_Model.webp",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Professor",
+    "src": "./mm/characters/MM3D_Professor_Model.webp",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Professor Shikashi",
+    "src": "./mm/characters/MM3D_Professor_Shikashi_Model.webp",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Romani",
+    "src": "./mm/characters/MM3D_Romani_Model.webp",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Saburo",
+    "src": "./mm/characters/MM3D_Saburo_Model.webp",
+    "difficulty": "4"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Sakon",
+    "src": "./mm/characters/MM3D_Sakon_Model.webp",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Sharp",
+    "src": "./mm/characters/MM3D_Sharp_Model.webp",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Shiro",
+    "src": "./mm/characters/MM3D_Shiro_Model.webp",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Skull Kid",
+    "src": "./mm/characters/MM3D_Skull_Kid_Model.webp",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Tael",
+    "src": "./mm/characters/MM3D_Tael_Model.webp",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Tatl",
+    "src": "./mm/characters/MM3D_Tatl_Model.webp",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Tijo",
+    "src": "./mm/characters/MM3D_Tijo_Model.webp",
+    "difficulty": "4"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Tingle",
+    "src": "./mm/characters/MM3D_Tingle_Model.webp",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Toto",
+    "src": "./mm/characters/MM3D_Toto_Model.webp",
+    "difficulty": "4"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Viscen",
+    "src": "./mm/characters/MM3D_Viscen_Model.webp",
+    "difficulty": "5"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Zora Link",
+    "src": "./mm/characters/MM3D_Zora_Link_Model.webp",
+    "difficulty": "1"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Zubora",
+    "src": "./mm/characters/MM3D_Zubora_Model.webp",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Captain Keeta",
+    "src": "./mm/characters/MM_Captain_Keeta_Model.webp",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Dampe",
+    "src": "./mm/characters/MM_Dampe_Model.webp",
+    "difficulty": "2"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Igos du Ikana",
+    "src": "./mm/characters/MM_Igos_du_Ikana_Model.webp",
+    "difficulty": "3"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "King's Lackeys",
+    "src": "./mm/characters/MM_King's_Lackeys_Model.webp",
+    "difficulty": "4"
   },
   {
     "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
-  },
-  {
-    "game": "Majora's Mask",
-    "name": "",
-    "src": "./mm/characters/",
-    "difficulty": ""
+    "name": "Pamela",
+    "src": "./mm/characters/MM_Pamela_Model.webp",
+    "difficulty": "5"
   }
 ]
