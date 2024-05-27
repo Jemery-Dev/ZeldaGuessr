@@ -2,6 +2,7 @@
     import games from '$lib/games.json';
     import locations from '$lib/locations.json';
     import items from '$lib/items.json';
+    import bosses from '$lib/bosses.json';
     import characters from '$lib/characters.json';
     import types from '$lib/types.json';
 </script>
@@ -52,7 +53,17 @@
                 </div>
             {/if}
 
-            {#if type.type === "Dungeons maps"}
+            {#if type.type === "bosses"}
+                <div class="section-item">
+                    {#each bosses as boss}
+                        {#if boss.game === game.title}
+                            <div class="card-item">
+                                <h3>{boss.name}</h3>
+                                <img alt="{boss.name}" src="{boss.src}" />
+                            </div>
+                        {/if}
+                    {/each}
+                </div>
             {/if}
         {/each}
     </div>
