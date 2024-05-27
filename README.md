@@ -1,38 +1,70 @@
-# create-svelte
+# ZeldaGuessr 🎮✨
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Welcome to **ZeldaGuessr**! This project is an interactive application developed with [Svelte](https://svelte.dev/) that allows you to guess locations, items, bosses, and more from various Zelda games. Challenge your friends and find out who is the ultimate Zelda expert with our dedicated database!
 
-## Creating a project
+## Author 👨‍💻
 
-If you're seeing this, you've probably already done this step. Congrats!
+This project was created by **Jérémy Girard**.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Features 🌟
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+- **Interactive Quizzes**: Guess locations, items, bosses, and more from Zelda games.
+- **Leaderboards**: See who is the best in real-time thanks to our database.
+- **User-Friendly Interface**: Enjoy a simple and pleasant user interface powered by Svelte.
 
-## Developing
+## Prerequisites 🛠️
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Before you begin, ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (version 12 or higher)
+- [npm](https://www.npmjs.com/) (or [yarn](https://yarnpkg.com/))
+
+## Installation 🚀
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/your-username/ZeldaGuessr.git
+    cd ZeldaGuessr
+    ```
+
+2. Install the necessary dependencies:
+
+    ```bash
+    npm install
+    ```
+
+## Development 🧑‍💻
+
+To run the application in development mode with automatic reload:
 
 ```bash
 npm run dev
+````
+Then, open your browser and go to [http://localhost:5173](http://localhost:5173). You should see the ZeldaGuessr app running.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Build 📦
 
-## Building
-
-To create a production version of your app:
+To create an optimized version of the application for production:
 
 ```bash
 npm run build
 ```
+The generated files will be located in the public directory.
 
-You can preview the production build with `npm run preview`.
+## Contributing 🤝
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+### Fork the repository
+Create a branch for your feature (git checkout -b feature/feature-name)
+Commit your changes (git commit -m 'Add new feature')
+Push to the branch (git push origin feature/feature-name)
+Open a Pull Request
+License 📄
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgements 🙏
+A big thank you to everyone who has contributed to this project and to the Svelte community for their support.
+
+© 2024 Jérémy Girard
+
