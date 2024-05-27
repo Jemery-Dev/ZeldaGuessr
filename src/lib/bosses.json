@@ -1,0 +1,44 @@
+[
+  {
+    "game" : "The Wind Waker",
+    "name" : "Gohdan",
+    "src" : "./windwaker/bosses/Gohdan.png",
+    "difficulty" : "3"
+  },
+  {
+    "game" : "The Wind Waker",
+    "name" : "",
+    "src" : "",
+    "difficulty" : ""
+  },
+  {
+    "game" : "The Wind Waker",
+    "name" : "",
+    "src" : "",
+    "difficulty" : ""
+  },
+  {
+    "game" : "The Wind Waker",
+    "name" : "",
+    "src" : "",
+    "difficulty" : ""
+  },
+  {
+    "game" : "The Wind Waker",
+    "name" : "",
+    "src" : "",
+    "difficulty" : ""
+  },
+  {
+    "game" : "The Wind Waker",
+    "name" : "",
+    "src" : "",
+    "difficulty" : ""
+  },
+  {
+    "game" : "The Wind Waker",
+    "name" : "",
+    "src" : "",
+    "difficulty" : ""
+  }
+]
